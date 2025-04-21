@@ -1,4 +1,17 @@
 # 키친포스
+## DDD 리팩토링 작업 내역
+- 상품
+  - ASIS : `java.kitchenpos.product`
+  - TOBE : `kotlin.kitchenpos.product.tobe`
+  - PR : https://github.com/next-step/ddd-tactical-design/pull/353
+- 메뉴
+  - ASIS : `java.kitchenpos.menu`
+  - TOBE : `kotlin.kitchenpos.menu.tobe`
+  - PR : https://github.com/next-step/ddd-tactical-design/pull/371
+- 매장식사
+  - ASIS : `java.kitchenpos.order.eatinorder`
+  - TOBE : `kotlin.kitchenpos.order.tobe.eatinorder`
+  - PR : https://github.com/next-step/ddd-tactical-design/pull/375
 
 ## 퀵 스타트
 
